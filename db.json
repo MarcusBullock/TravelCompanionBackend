@@ -1,0 +1,112 @@
+{
+  "cities": [
+    {
+      "id": "2b0d",
+      "cityName": "Terrasson-Lavilledieu",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2024-06-07T14:34:29.458Z",
+      "notes": "Eggs de von thomas",
+      "position": {
+        "lat": 45.12715354748949,
+        "lng": 1.3032317161560059
+      }
+    },
+    {
+      "id": "ca53",
+      "cityName": "Nairobi",
+      "country": "Kenya",
+      "emoji": "🇰🇪",
+      "date": "2024-06-07T14:52:47.061Z",
+      "notes": "poo",
+      "position": {
+        "lat": -1.3511930983018765,
+        "lng": 36.79321289062501
+      }
+    },
+    {
+      "id": "a451",
+      "cityName": "Amalfi",
+      "country": "Italy",
+      "emoji": "🇮🇹",
+      "date": "2024-06-07T14:59:35.270Z",
+      "notes": "eggs",
+      "position": {
+        "lat": 40.62333412763723,
+        "lng": 14.584350585937502
+      }
+    },
+    {
+      "id": "322a",
+      "cityName": "Tunis",
+      "country": "Tunisia",
+      "emoji": "🇹🇳",
+      "date": "2024-06-07T15:16:46.193Z",
+      "notes": "eggs",
+      "position": {
+        "lat": 36.787291466820015,
+        "lng": 10.178833007812502
+      }
+    },
+    {
+      "id": "f150",
+      "cityName": "Beirut",
+      "country": "Lebanon",
+      "emoji": "🇱🇧",
+      "date": "2024-06-07T15:17:15.964Z",
+      "notes": "",
+      "position": {
+        "lat": 33.89492727091687,
+        "lng": 35.47880172729493
+      }
+    },
+    {
+      "id": "fa23",
+      "cityName": "Torremocha de Jiloca",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-06-07T18:04:49.535Z",
+      "notes": "",
+      "position": {
+        "lat": 40.60561205826018,
+        "lng": -1.2304687500000002
+      }
+    },
+    {
+      "id": "f53c",
+      "cityName": "London",
+      "country": "United Kingdom of Great Britain and Northern Ireland (the)",
+      "emoji": "🇬🇧",
+      "date": "2024-06-27T14:23:50.544Z",
+      "notes": "",
+      "position": {
+        "lat": 51.5027589576403,
+        "lng": -0.1164939687546407
+      }
+    },
+    {
+      "id": "35dc",
+      "cityName": "New York City",
+      "country": "United States of America (the)",
+      "emoji": "🇺🇸",
+      "date": "2024-06-27T14:24:14.143Z",
+      "notes": "",
+      "position": {
+        "lat": 40.718119379753475,
+        "lng": -73.9924387180263
+      }
+    },
+    {
+      "id": "053a",
+      "cityName": "Key West",
+      "country": "United States of America (the)",
+      "emoji": "🇺🇸",
+      "date": "2024-06-27T14:24:23.159Z",
+      "notes": "",
+      "position": {
+        "lat": 24.554617992809813,
+        "lng": -81.77248113855127
+      }
+    }
+  ]
+}
